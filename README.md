@@ -1,5 +1,6 @@
 # Simulation
 Simulated species distribution and abundance informed by spatiotemporal and environmental covariates.
+
 **Code author: Stephanie Brodie**
 
 ### Relevant paper:
